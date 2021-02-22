@@ -1,8 +1,8 @@
 {
-  "name": "tutorials",
+  "name": "starter-bot",
   "version": "1.0.0",
   "main": "src/index",
-  "author": "Connor Moriarty",
+  "author": "Maxime Kubik",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.0.0",
