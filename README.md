@@ -18,6 +18,8 @@
 This repository is dedicated to providing a template for your discord bot/s, so you're able to skip the setup and get right into building your dream bot.
 There will be various different branches with various different types of code in them.
 
+Feel free to request features, I'll be happy to work on them on my spare time.
+
 ## Steps to usage
 
 1) Obtain your discord bot token at [https://discord.com/developers/](https://discord.com/developers/)
