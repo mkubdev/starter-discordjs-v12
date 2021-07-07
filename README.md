@@ -20,6 +20,8 @@ There will be various different branches with various different types of code in
 
 Feel free to request features, I'll be happy to work on them on my spare time.
 
+This template is built on the https://github.com/Strandxo 's one, i added some usefull command to handle stocks API.
+
 ## Steps to usage
 
 1) Obtain your discord bot token at [https://discord.com/developers/](https://discord.com/developers/)
