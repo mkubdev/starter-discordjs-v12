@@ -1,9 +1,6 @@
 # Starter Bot - Discord.js 12
  
 <div align="center">
-<a href="https://github.com/mkubdev/starter-discordjs-v12">
-<img src="https://img.shields.io/github/languages/top/mkubdev/starter-discordjs-v12?style=for-the-badge">
-</a>
 <a href="https://github.com/mkubdev/starter-discordjs-v12/issues">
 <img src="https://img.shields.io/github/issues/mkubdev/starter-discordjs-v12?style=for-the-badge">
 </a>
